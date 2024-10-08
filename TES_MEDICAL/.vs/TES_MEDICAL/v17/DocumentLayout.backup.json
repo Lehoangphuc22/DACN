@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAPcUAAAAAAAAAAAiwBsVAAByAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T15:08:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPUEAAAAAAAAAAAAAAsFAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T14:50:20.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
