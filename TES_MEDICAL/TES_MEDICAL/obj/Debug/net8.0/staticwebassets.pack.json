@@ -1,511 +1,515 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TES_MEDICAL.bundle.scp.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TES_MEDICAL.bundle.scp.css",
       "PackagePath": "staticwebassets\\TES_MEDICAL.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\120929eda2014bb1.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\PagedList.css",
+      "PackagePath": "staticwebassets\\PagedList.css"
+    },
+    {
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\120929eda2014bb1.css",
       "PackagePath": "staticwebassets\\css\\120929eda2014bb1.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\36fa243053e5e757.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\36fa243053e5e757.css",
       "PackagePath": "staticwebassets\\css\\36fa243053e5e757.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\52e76f8b80d216c1.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\52e76f8b80d216c1.css",
       "PackagePath": "staticwebassets\\css\\52e76f8b80d216c1.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\7048a315079c2c21.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\7048a315079c2c21.css",
       "PackagePath": "staticwebassets\\css\\7048a315079c2c21.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\717daf107eccb6df.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\717daf107eccb6df.css",
       "PackagePath": "staticwebassets\\css\\717daf107eccb6df.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\873ea2dbb06628c4.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\873ea2dbb06628c4.css",
       "PackagePath": "staticwebassets\\css\\873ea2dbb06628c4.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\95715e63b4856424.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\95715e63b4856424.css",
       "PackagePath": "staticwebassets\\css\\95715e63b4856424.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c88100804b63c816.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c88100804b63c816.css",
       "PackagePath": "staticwebassets\\css\\c88100804b63c816.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c9ce11e5f1925e8a.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c9ce11e5f1925e8a.css",
       "PackagePath": "staticwebassets\\css\\c9ce11e5f1925e8a.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d340f16c09143801.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d340f16c09143801.css",
       "PackagePath": "staticwebassets\\css\\d340f16c09143801.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d839cd09ebfcee4c.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d839cd09ebfcee4c.css",
       "PackagePath": "staticwebassets\\css\\d839cd09ebfcee4c.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\login.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvbinhthanh.png",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvbinhthanh.png",
       "PackagePath": "staticwebassets\\image\\bvbinhthanh.png"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvdaihocyduoctphcm.png",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvdaihocyduoctphcm.png",
       "PackagePath": "staticwebassets\\image\\bvdaihocyduoctphcm.png"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvmat.png",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvmat.png",
       "PackagePath": "staticwebassets\\image\\bvmat.png"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvsingapo.png",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvsingapo.png",
       "PackagePath": "staticwebassets\\image\\bvsingapo.png"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvtrungvuong.png",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvtrungvuong.png",
       "PackagePath": "staticwebassets\\image\\bvtrungvuong.png"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichbacsi.webp",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichbacsi.webp",
       "PackagePath": "staticwebassets\\image\\datlichbacsi.webp"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichcoso.webp",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichcoso.webp",
       "PackagePath": "staticwebassets\\image\\datlichcoso.webp"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichkhamsuckhoe.webp",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichkhamsuckhoe.webp",
       "PackagePath": "staticwebassets\\image\\datlichkhamsuckhoe.webp"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichtiemchung.webp",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichtiemchung.webp",
       "PackagePath": "staticwebassets\\image\\datlichtiemchung.webp"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichxetnghiem.webp",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichxetnghiem.webp",
       "PackagePath": "staticwebassets\\image\\datlichxetnghiem.webp"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\thanhtoanchiphi.webp",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\thanhtoanchiphi.webp",
       "PackagePath": "staticwebassets\\image\\thanhtoanchiphi.webp"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\tuvankham.webp",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\tuvankham.webp",
       "PackagePath": "staticwebassets\\image\\tuvankham.webp"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[slug]-a1fc163c733e666d.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[slug]-a1fc163c733e666d.js",
       "PackagePath": "staticwebassets\\js\\[slug]-a1fc163c733e666d.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[type]-d27067d3cc52d246.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[type]-d27067d3cc52d246.js",
       "PackagePath": "staticwebassets\\js\\[type]-d27067d3cc52d246.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_app-5185e31fa3b84377.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_app-5185e31fa3b84377.js",
       "PackagePath": "staticwebassets\\js\\_app-5185e31fa3b84377.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_buildManifest.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_buildManifest.js",
       "PackagePath": "staticwebassets\\js\\_buildManifest.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_ssgManifest.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_ssgManifest.js",
       "PackagePath": "staticwebassets\\js\\_ssgManifest.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\chinh-sach-bao-mat-8661ae68909da383.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\chinh-sach-bao-mat-8661ae68909da383.js",
       "PackagePath": "staticwebassets\\js\\chinh-sach-bao-mat-8661ae68909da383.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\co-so-y-te-4c3767f47537ad7c.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\co-so-y-te-4c3767f47537ad7c.js",
       "PackagePath": "staticwebassets\\js\\co-so-y-te-4c3767f47537ad7c.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dich-vu-y-te-2ee8d6609b7d8a8f.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dich-vu-y-te-2ee8d6609b7d8a8f.js",
       "PackagePath": "staticwebassets\\js\\dich-vu-y-te-2ee8d6609b7d8a8f.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dieu-khoan-dich-vu-1e3711908e9e90a0.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dieu-khoan-dich-vu-1e3711908e9e90a0.js",
       "PackagePath": "staticwebassets\\js\\dieu-khoan-dich-vu-1e3711908e9e90a0.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4e.eot",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4e.eot",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4e.eot"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4ed41d.eot",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4ed41d.eot",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4ed41d.eot"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-a8a432aa294927fc088be99278b1bd7d.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-a8a432aa294927fc088be99278b1bd7d.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Bold-a8a432aa294927fc088be99278b1bd7d.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-d91bef414f5a589f1256c618fffddbd1.woff",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-d91bef414f5a589f1256c618fffddbd1.woff",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Bold-d91bef414f5a589f1256c618fffddbd1.woff"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-3a8e0d21570e4d2fb3a7a65a095cd2ca.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-3a8e0d21570e4d2fb3a7a65a095cd2ca.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Regular-3a8e0d21570e4d2fb3a7a65a095cd2ca.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-658d0795e629495fecec260e85973f53.woff",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-658d0795e629495fecec260e85973f53.woff",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Regular-658d0795e629495fecec260e85973f53.woff"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5e.eot",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5e.eot",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5e.eot"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5ed41d.eot",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5ed41d.eot",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5ed41d.eot"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025.eot",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025.eot",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025.eot"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025d41d.eot",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025d41d.eot",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025d41d.eot"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-5dbd881d85d52f4bce4da4f88a0c32a3.woff",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-5dbd881d85d52f4bce4da4f88a0c32a3.woff",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Semibold-5dbd881d85d52f4bce4da4f88a0c32a3.woff"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-ca519d5e84712d1e5fbd39ce8303926a.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-ca519d5e84712d1e5fbd39ce8303926a.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Averta-Semibold-ca519d5e84712d1e5fbd39ce8303926a.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Montserrat-VariableFont_wght-3faa3eef13649db020445bcd9e72e2c2.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Montserrat-VariableFont_wght-3faa3eef13649db020445bcd9e72e2c2.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Montserrat-VariableFont_wght-3faa3eef13649db020445bcd9e72e2c2.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Bold-f80816a5455d171f948d98c32f20c46e.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Bold-f80816a5455d171f948d98c32f20c46e.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Roboto-Bold-f80816a5455d171f948d98c32f20c46e.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Light-333da16a3f3cc391d0876c6d773efc6f.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Light-333da16a3f3cc391d0876c6d773efc6f.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Roboto-Light-333da16a3f3cc391d0876c6d773efc6f.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Medium-7c8d04cd831df3033c8a96a2668d645e.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Medium-7c8d04cd831df3033c8a96a2668d645e.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Roboto-Medium-7c8d04cd831df3033c8a96a2668d645e.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Regular-fc2b5060f7accec5cf74437196c1b027.ttf",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Regular-fc2b5060f7accec5cf74437196c1b027.ttf",
       "PackagePath": "staticwebassets\\js\\fonts\\Roboto-Regular-fc2b5060f7accec5cf74437196c1b027.ttf"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\framework-45b23bd899ce37ec.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\framework-45b23bd899ce37ec.js",
       "PackagePath": "staticwebassets\\js\\framework-45b23bd899ce37ec.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\gioi-thieu-62e883457eb3e5b9.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\gioi-thieu-62e883457eb3e5b9.js",
       "PackagePath": "staticwebassets\\js\\gioi-thieu-62e883457eb3e5b9.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-cung-medpro-ded9ed74ace567fb.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-cung-medpro-ded9ed74ace567fb.js",
       "PackagePath": "staticwebassets\\js\\hop-tac-cung-medpro-ded9ed74ace567fb.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-quang-cao-c033606ca265dfe7.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-quang-cao-c033606ca265dfe7.js",
       "PackagePath": "staticwebassets\\js\\hop-tac-quang-cao-c033606ca265dfe7.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\index-0220ac282ebb0d72.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\index-0220ac282ebb0d72.js",
       "PackagePath": "staticwebassets\\js\\index-0220ac282ebb0d72.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\kham-suc-khoe-doanh-nghiep-b91c2ecc28e682c6.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\kham-suc-khoe-doanh-nghiep-b91c2ecc28e682c6.js",
       "PackagePath": "staticwebassets\\js\\kham-suc-khoe-doanh-nghiep-b91c2ecc28e682c6.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\main-48d5539cc3d1393e.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\main-48d5539cc3d1393e.js",
       "PackagePath": "staticwebassets\\js\\main-48d5539cc3d1393e.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\polyfills-c67a75d1b6f99dc8.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\polyfills-c67a75d1b6f99dc8.js",
       "PackagePath": "staticwebassets\\js\\polyfills-c67a75d1b6f99dc8.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\quy-dinh-su-dung-dd9f74e672cbd3d5.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\quy-dinh-su-dung-dd9f74e672cbd3d5.js",
       "PackagePath": "staticwebassets\\js\\quy-dinh-su-dung-dd9f74e672cbd3d5.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-dich-vu-d40d8529197c94c6.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-dich-vu-d40d8529197c94c6.js",
       "PackagePath": "staticwebassets\\js\\tin-dich-vu-d40d8529197c94c6.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-tuc-4a05723c1d769af6.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-tuc-4a05723c1d769af6.js",
       "PackagePath": "staticwebassets\\js\\tin-tuc-4a05723c1d769af6.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-y-te-ec441126d95edf3c.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-y-te-ec441126d95edf3c.js",
       "PackagePath": "staticwebassets\\js\\tin-y-te-ec441126d95edf3c.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tuyen-dung-27e05f5625cb034e.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tuyen-dung-27e05f5625cb034e.js",
       "PackagePath": "staticwebassets\\js\\tuyen-dung-27e05f5625cb034e.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\user-dabd8e93e62ca388.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\user-dabd8e93e62ca388.js",
       "PackagePath": "staticwebassets\\js\\user-dabd8e93e62ca388.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\webpack-82b535c66a943ed8.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\webpack-82b535c66a943ed8.js",
       "PackagePath": "staticwebassets\\js\\webpack-82b535c66a943ed8.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\y-hoc-thuong-thuc-3730c9677ba844fc.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\y-hoc-thuong-thuc-3730c9677ba844fc.js",
       "PackagePath": "staticwebassets\\js\\y-hoc-thuong-thuc-3730c9677ba844fc.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

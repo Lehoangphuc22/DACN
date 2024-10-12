@@ -1,0 +1,291 @@
+﻿<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bác sĩ Client</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+                body {
+                    font-family: 'Roboto', sans-serif;
+                    background: linear-gradient(135deg, #f0f4f8, #dfe9f3);
+                    margin: 0;
+                    padding: 0;
+                }
+
+                /* Sidebar */
+                .sidebar {
+                    width: 250px;
+                    height: 100vh;
+                    background-color: #2c3e50;
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    color: #ecf0f1;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    padding-top: 20px;
+                    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+                }
+
+                .sidebar img {
+                    border-radius: 50%;
+                    width: 100px;
+                    height: 100px;
+                    margin-bottom: 10px;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+                }
+
+                .sidebar h2 {
+                    font-size: 18px;
+                    margin: 10px 0;
+                }
+
+                .sidebar .menu-item {
+                    width: 100%;
+                    padding: 15px;
+                    margin: 10px 0;
+                    text-align: center;
+                    transition: background 0.3s;
+                    border-radius: 5px;
+                }
+
+                .sidebar .menu-item:hover {
+                    background-color: #34495e;
+                    cursor: pointer;
+                }
+
+                /* Main content */
+                .main-content {
+                    margin-left: 250px;
+                    padding: 20px;
+                    transition: margin-left 0.3s;
+                }
+
+                .welcome-banner {
+                    background: linear-gradient(135deg, #27ae60, #2ecc71);
+                    color: #fff;
+                    padding: 20px;
+                    border-radius: 10px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    margin-bottom: 20px;
+                    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+                }
+
+                .welcome-banner h1 {
+                    font-size: 24px;
+                    margin: 0;
+                }
+
+                /* Search section */
+                /* Search section */
+        .search-section {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .search-section input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-right: 10px;
+            transition: border-color 0.3s;
+            font-size: 14px;
+        }
+
+        .search-section input:focus {
+            border-color: #27ae60;
+            outline: none;
+        }
+
+        .search-section button {
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #27ae60, #2ecc71);
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-section button:hover {
+            background: linear-gradient(135deg, #219150, #27ae60);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+            transform: scale(1.05);
+        }
+
+
+                /* Table */
+                table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                    background-color: #fff;
+                    border-radius: 10px;
+                    overflow: hidden;
+                    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+                }
+
+                table th, table td {
+                    padding: 15px;
+                    text-align: left;
+                    border-bottom: 1px solid #f0f0f0;
+                }
+
+                table th {
+                    background-color: #27ae60;
+                    color: #fff;
+                }
+
+                table td {
+                    background-color: #f9f9f9;
+                }
+
+                table tr:hover {
+                    background-color: #e0f7e9;
+                    cursor: pointer;
+                }
+
+                .pagination {
+                    display: flex;
+                    justify-content: center;
+                    margin-top: 20px;
+                }
+
+                .pagination button {
+                    padding: 10px 15px;
+                    margin: 0 5px;
+                    border: none;
+                    background-color: #27ae60;
+                    color: #fff;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    transition: background 0.3s;
+                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                }
+
+                .pagination button:hover {
+                    background-color: #219150;
+                }
+        /* Updated Style for Lịch sử khám Section */
+
+        /* Container */
+        .search-history-container {
+            background-color: #f4f7f6;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+            /* Search Input */
+            .search-history-container input[type="text"] {
+                padding: 10px;
+                width: 70%;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                font-size: 14px;
+                margin-right: 10px;
+                transition: border-color 0.3s;
+            }
+
+                .search-history-container input[type="text"]:focus {
+                    border-color: #27ae60;
+                }
+
+            /* Refresh Button */
+            .search-history-container .refresh-btn {
+                padding: 10px 20px;
+                background: linear-gradient(135deg, #27ae60, #2ecc71);
+                border: none;
+                border-radius: 5px;
+                color: white;
+                cursor: pointer;
+                transition: background 0.3s ease;
+            }
+
+                .search-history-container .refresh-btn:hover {
+                    background: linear-gradient(135deg, #219150, #27ae60);
+                    transform: scale(1.05);
+                }
+
+        /* Table */
+        .search-history-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+            .search-history-table th, .search-history-table td {
+                padding: 10px;
+                text-align: left;
+                border-bottom: 1px solid #ddd;
+            }
+
+            .search-history-table th {
+                background-color: #27ae60;
+                color: white;
+                font-weight: bold;
+                text-align: center;
+            }
+
+            .search-history-table td {
+                background-color: #ffffff;
+                text-align: center;
+            }
+
+            .search-history-table tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            /* Action Button (Info) */
+            .search-history-table .info-btn {
+                background-color: #3498db;
+                border: none;
+                color: white;
+                padding: 6px 12px;
+                border-radius: 50%;
+                cursor: pointer;
+                transition: background-color 0.3s ease;
+            }
+
+                .search-history-table .info-btn:hover {
+                    background-color: #2980b9;
+                }
+
+        /* Pagination */
+        .pagination {
+            text-align: right;
+            margin-top: 10px;
+        }
+
+            .pagination button {
+                background-color: #3498db;
+                color: white;
+                padding: 5px 10px;
+                border: none;
+                border-radius: 3px;
+                cursor: pointer;
+                margin: 0 2px;
+            }
+
+                .pagination button:hover {
+                    background-color: #2980b9;
+                }
+
+    </style>
+</head>
+<body>
+    @RenderBody()
+</body>
+</html>

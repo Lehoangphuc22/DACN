@@ -26,12 +26,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Omen\Desktop\DNCN\DACN\TES_MEDICAL\TES_MEDICAL
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Bacsi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFjc2lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Bacsi/Lichsukham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFjc2lcTGljaHN1a2hhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingBase.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nQmFzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingDoctor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nRG9jdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Dangphat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXERhbmdwaGF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Lichsu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXExpY2hzdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Phatthuoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXFBoYXR0aHVvYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Home/Index.cshtml]
@@ -44,6 +68,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutEmployer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFbXBsb3llci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Omen/Desktop/DNCN/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutLogin.cshtml]
