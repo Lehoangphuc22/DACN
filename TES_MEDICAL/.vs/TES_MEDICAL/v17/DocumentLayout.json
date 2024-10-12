@@ -1,14 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TES_MEDICAL\\",
+  "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|d:\\tes_medical\\tes_medical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\booking\\bookingdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\booking\\bookingdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|d:\\tes_medical\\tes_medical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\booking\\bookingbase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\booking\\bookingbase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,44 +50,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:59:59.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AgIAAOkEAAAAAAAAAAAuwA8FAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:10:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "TES_MEDICAL\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAMwPAAAAAAAAAAAmwOcPAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T19:05:23.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "TES_MEDICAL\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:14:21.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Booking\\BookingDoctor.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Booking\\BookingDoctor.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Booking\\BookingDoctor.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Booking\\BookingDoctor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:01:40.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:00:32.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingBase.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Booking\\BookingBase.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Booking\\BookingBase.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Booking\\BookingBase.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Booking\\BookingBase.cshtml",
+              "ViewState": "AgIAAIsJAAAAAAAAAAAiwKoJAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:00:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TES_MEDICAL\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAPIHAAAAAAAAAAAAAH0EAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-04T15:08:05.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TES_MEDICAL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAPUEAAAAAAAAAAAAAAsFAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAPQEAAAAAAAAAAAiwA4FAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T14:50:20.682Z"
+              "WhenOpened": "2024-10-04T14:50:20.682Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TES_MEDICAL\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:58:21.951Z",
+              "EditorCaption": ""
             }
           ]
         }
