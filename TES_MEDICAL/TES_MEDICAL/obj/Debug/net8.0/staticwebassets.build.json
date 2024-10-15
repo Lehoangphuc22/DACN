@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hE386KjeXnjUF5GR2BYrGD2q3EfQnlmb/k5zNZ/SP9U=",
+  "Hash": "Nf6m5VlLFFXfmVTGRN7+uoKUcX+Jd8Z+AtPt6Gj852Q=",
   "Source": "TES_MEDICAL",
   "BasePath": "_content/TES_MEDICAL",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TES_MEDICAL\\wwwroot",
       "Source": "TES_MEDICAL",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TES_MEDICAL.styles.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TES_MEDICAL.styles.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "TES_MEDICAL.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TES_MEDICAL.styles.css"
+      "OriginalItemSpec": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TES_MEDICAL.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TES_MEDICAL.bundle.scp.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TES_MEDICAL.bundle.scp.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "TES_MEDICAL.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TES_MEDICAL.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TES_MEDICAL.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\120929eda2014bb1.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\120929eda2014bb1.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/120929eda2014bb1.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\120929eda2014bb1.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\36fa243053e5e757.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\36fa243053e5e757.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/36fa243053e5e757.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\36fa243053e5e757.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\52e76f8b80d216c1.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\52e76f8b80d216c1.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/52e76f8b80d216c1.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\52e76f8b80d216c1.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\7048a315079c2c21.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\7048a315079c2c21.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/7048a315079c2c21.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\7048a315079c2c21.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\717daf107eccb6df.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\717daf107eccb6df.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/717daf107eccb6df.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\717daf107eccb6df.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\873ea2dbb06628c4.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\873ea2dbb06628c4.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/873ea2dbb06628c4.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\873ea2dbb06628c4.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\95715e63b4856424.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\95715e63b4856424.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/95715e63b4856424.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\95715e63b4856424.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c88100804b63c816.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c88100804b63c816.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/c88100804b63c816.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\c88100804b63c816.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c9ce11e5f1925e8a.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\c9ce11e5f1925e8a.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/c9ce11e5f1925e8a.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\c9ce11e5f1925e8a.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d340f16c09143801.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d340f16c09143801.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/d340f16c09143801.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\d340f16c09143801.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d839cd09ebfcee4c.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\d839cd09ebfcee4c.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/d839cd09ebfcee4c.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\d839cd09ebfcee4c.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\login.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\css\\site.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\favicon.ico",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvbinhthanh.png",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvbinhthanh.png",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/bvbinhthanh.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bvbinhthanh.png"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvdaihocyduoctphcm.png",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvdaihocyduoctphcm.png",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/bvdaihocyduoctphcm.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bvdaihocyduoctphcm.png"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvmat.png",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvmat.png",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/bvmat.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bvmat.png"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvsingapo.png",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvsingapo.png",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/bvsingapo.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bvsingapo.png"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvtrungvuong.png",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\bvtrungvuong.png",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/bvtrungvuong.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bvtrungvuong.png"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichbacsi.webp",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichbacsi.webp",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/datlichbacsi.webp",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\image\\datlichbacsi.webp"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichcoso.webp",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichcoso.webp",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/datlichcoso.webp",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\image\\datlichcoso.webp"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichkhamsuckhoe.webp",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichkhamsuckhoe.webp",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/datlichkhamsuckhoe.webp",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\image\\datlichkhamsuckhoe.webp"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichtiemchung.webp",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichtiemchung.webp",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/datlichtiemchung.webp",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\image\\datlichtiemchung.webp"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichxetnghiem.webp",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\datlichxetnghiem.webp",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/datlichxetnghiem.webp",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\image\\datlichxetnghiem.webp"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\thanhtoanchiphi.webp",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\thanhtoanchiphi.webp",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/thanhtoanchiphi.webp",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\image\\thanhtoanchiphi.webp"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\tuvankham.webp",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\image\\tuvankham.webp",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "image/tuvankham.webp",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\image\\tuvankham.webp"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[slug]-a1fc163c733e666d.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[slug]-a1fc163c733e666d.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/[slug]-a1fc163c733e666d.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\[slug]-a1fc163c733e666d.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[type]-d27067d3cc52d246.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\[type]-d27067d3cc52d246.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/[type]-d27067d3cc52d246.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\[type]-d27067d3cc52d246.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_app-5185e31fa3b84377.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_app-5185e31fa3b84377.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/_app-5185e31fa3b84377.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\_app-5185e31fa3b84377.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_buildManifest.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_buildManifest.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/_buildManifest.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\_buildManifest.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_ssgManifest.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\_ssgManifest.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/_ssgManifest.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\js\\_ssgManifest.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\chinh-sach-bao-mat-8661ae68909da383.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\chinh-sach-bao-mat-8661ae68909da383.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/chinh-sach-bao-mat-8661ae68909da383.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chinh-sach-bao-mat-8661ae68909da383.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\co-so-y-te-4c3767f47537ad7c.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\co-so-y-te-4c3767f47537ad7c.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/co-so-y-te-4c3767f47537ad7c.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\js\\co-so-y-te-4c3767f47537ad7c.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dich-vu-y-te-2ee8d6609b7d8a8f.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dich-vu-y-te-2ee8d6609b7d8a8f.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/dich-vu-y-te-2ee8d6609b7d8a8f.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dich-vu-y-te-2ee8d6609b7d8a8f.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dieu-khoan-dich-vu-1e3711908e9e90a0.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\dieu-khoan-dich-vu-1e3711908e9e90a0.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/dieu-khoan-dich-vu-1e3711908e9e90a0.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dieu-khoan-dich-vu-1e3711908e9e90a0.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4e.eot",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4e.eot",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4e.eot",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4e.eot"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4ed41d.eot",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4ed41d.eot",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4ed41d.eot",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Bold-46fd2c50a74a15cf856d0788ca9aae4ed41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-a8a432aa294927fc088be99278b1bd7d.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-a8a432aa294927fc088be99278b1bd7d.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Bold-a8a432aa294927fc088be99278b1bd7d.ttf",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Bold-a8a432aa294927fc088be99278b1bd7d.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-d91bef414f5a589f1256c618fffddbd1.woff",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Bold-d91bef414f5a589f1256c618fffddbd1.woff",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Bold-d91bef414f5a589f1256c618fffddbd1.woff",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Bold-d91bef414f5a589f1256c618fffddbd1.woff"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-3a8e0d21570e4d2fb3a7a65a095cd2ca.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-3a8e0d21570e4d2fb3a7a65a095cd2ca.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Regular-3a8e0d21570e4d2fb3a7a65a095cd2ca.ttf",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Regular-3a8e0d21570e4d2fb3a7a65a095cd2ca.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-658d0795e629495fecec260e85973f53.woff",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-658d0795e629495fecec260e85973f53.woff",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Regular-658d0795e629495fecec260e85973f53.woff",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Regular-658d0795e629495fecec260e85973f53.woff"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5e.eot",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5e.eot",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Regular-68bcb5e66e98624f7a869f40799a9c5e.eot",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5e.eot"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5ed41d.eot",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5ed41d.eot",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Regular-68bcb5e66e98624f7a869f40799a9c5ed41d.eot",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Regular-68bcb5e66e98624f7a869f40799a9c5ed41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025.eot",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025.eot",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Semibold-2c3c215e0b300739261d2f3d0956b025.eot",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025.eot"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025d41d.eot",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025d41d.eot",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Semibold-2c3c215e0b300739261d2f3d0956b025d41d.eot",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Semibold-2c3c215e0b300739261d2f3d0956b025d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-5dbd881d85d52f4bce4da4f88a0c32a3.woff",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-5dbd881d85d52f4bce4da4f88a0c32a3.woff",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Semibold-5dbd881d85d52f4bce4da4f88a0c32a3.woff",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Semibold-5dbd881d85d52f4bce4da4f88a0c32a3.woff"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-ca519d5e84712d1e5fbd39ce8303926a.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Averta-Semibold-ca519d5e84712d1e5fbd39ce8303926a.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Averta-Semibold-ca519d5e84712d1e5fbd39ce8303926a.ttf",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Averta-Semibold-ca519d5e84712d1e5fbd39ce8303926a.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Montserrat-VariableFont_wght-3faa3eef13649db020445bcd9e72e2c2.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Montserrat-VariableFont_wght-3faa3eef13649db020445bcd9e72e2c2.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Montserrat-VariableFont_wght-3faa3eef13649db020445bcd9e72e2c2.ttf",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Montserrat-VariableFont_wght-3faa3eef13649db020445bcd9e72e2c2.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Bold-f80816a5455d171f948d98c32f20c46e.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Bold-f80816a5455d171f948d98c32f20c46e.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Roboto-Bold-f80816a5455d171f948d98c32f20c46e.ttf",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Roboto-Bold-f80816a5455d171f948d98c32f20c46e.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Light-333da16a3f3cc391d0876c6d773efc6f.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Light-333da16a3f3cc391d0876c6d773efc6f.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Roboto-Light-333da16a3f3cc391d0876c6d773efc6f.ttf",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Roboto-Light-333da16a3f3cc391d0876c6d773efc6f.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Medium-7c8d04cd831df3033c8a96a2668d645e.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Medium-7c8d04cd831df3033c8a96a2668d645e.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Roboto-Medium-7c8d04cd831df3033c8a96a2668d645e.ttf",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Roboto-Medium-7c8d04cd831df3033c8a96a2668d645e.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Regular-fc2b5060f7accec5cf74437196c1b027.ttf",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\fonts\\Roboto-Regular-fc2b5060f7accec5cf74437196c1b027.ttf",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/fonts/Roboto-Regular-fc2b5060f7accec5cf74437196c1b027.ttf",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\js\\fonts\\Roboto-Regular-fc2b5060f7accec5cf74437196c1b027.ttf"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\framework-45b23bd899ce37ec.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\framework-45b23bd899ce37ec.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/framework-45b23bd899ce37ec.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\js\\framework-45b23bd899ce37ec.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\gioi-thieu-62e883457eb3e5b9.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\gioi-thieu-62e883457eb3e5b9.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/gioi-thieu-62e883457eb3e5b9.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\js\\gioi-thieu-62e883457eb3e5b9.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-cung-medpro-ded9ed74ace567fb.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-cung-medpro-ded9ed74ace567fb.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/hop-tac-cung-medpro-ded9ed74ace567fb.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\js\\hop-tac-cung-medpro-ded9ed74ace567fb.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-quang-cao-c033606ca265dfe7.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\hop-tac-quang-cao-c033606ca265dfe7.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/hop-tac-quang-cao-c033606ca265dfe7.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\js\\hop-tac-quang-cao-c033606ca265dfe7.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\index-0220ac282ebb0d72.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\index-0220ac282ebb0d72.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/index-0220ac282ebb0d72.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\js\\index-0220ac282ebb0d72.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\kham-suc-khoe-doanh-nghiep-b91c2ecc28e682c6.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\kham-suc-khoe-doanh-nghiep-b91c2ecc28e682c6.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/kham-suc-khoe-doanh-nghiep-b91c2ecc28e682c6.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\js\\kham-suc-khoe-doanh-nghiep-b91c2ecc28e682c6.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\main-48d5539cc3d1393e.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\main-48d5539cc3d1393e.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/main-48d5539cc3d1393e.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main-48d5539cc3d1393e.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\polyfills-c67a75d1b6f99dc8.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\polyfills-c67a75d1b6f99dc8.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/polyfills-c67a75d1b6f99dc8.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\js\\polyfills-c67a75d1b6f99dc8.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\quy-dinh-su-dung-dd9f74e672cbd3d5.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\quy-dinh-su-dung-dd9f74e672cbd3d5.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/quy-dinh-su-dung-dd9f74e672cbd3d5.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\js\\quy-dinh-su-dung-dd9f74e672cbd3d5.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\site.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-dich-vu-d40d8529197c94c6.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-dich-vu-d40d8529197c94c6.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/tin-dich-vu-d40d8529197c94c6.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\js\\tin-dich-vu-d40d8529197c94c6.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-tuc-4a05723c1d769af6.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-tuc-4a05723c1d769af6.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/tin-tuc-4a05723c1d769af6.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\js\\tin-tuc-4a05723c1d769af6.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-y-te-ec441126d95edf3c.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tin-y-te-ec441126d95edf3c.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/tin-y-te-ec441126d95edf3c.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\js\\tin-y-te-ec441126d95edf3c.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tuyen-dung-27e05f5625cb034e.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\tuyen-dung-27e05f5625cb034e.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/tuyen-dung-27e05f5625cb034e.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\tuyen-dung-27e05f5625cb034e.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\user-dabd8e93e62ca388.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\user-dabd8e93e62ca388.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/user-dabd8e93e62ca388.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\js\\user-dabd8e93e62ca388.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\webpack-82b535c66a943ed8.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\webpack-82b535c66a943ed8.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/webpack-82b535c66a943ed8.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\js\\webpack-82b535c66a943ed8.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\y-hoc-thuong-thuc-3730c9677ba844fc.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\js\\y-hoc-thuong-thuc-3730c9677ba844fc.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "js/y-hoc-thuong-thuc-3730c9677ba844fc.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\js\\y-hoc-thuong-thuc-3730c9677ba844fc.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\PagedList.css",
+      "Identity": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\PagedList.css",
       "SourceId": "TES_MEDICAL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Omen\\Desktop\\DNCN\\DACN\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\wwwroot\\",
       "BasePath": "_content/TES_MEDICAL",
       "RelativePath": "PagedList.css",
       "AssetKind": "All",

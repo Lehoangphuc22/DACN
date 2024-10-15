@@ -8,5 +8,13 @@ namespace TES_MEDICAL.Controllers
         {
             return View();
         }
+        public IActionResult BookingDoctor()
+        {
+            return View();
+        }
+        public IActionResult BookingVaccin()
+        {
+            return View();
+        }
     }
 }

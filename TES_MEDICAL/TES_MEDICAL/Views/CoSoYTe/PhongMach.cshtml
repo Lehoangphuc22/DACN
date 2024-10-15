@@ -1,0 +1,721 @@
+﻿@{
+    ViewData["Title"] = "PhongMach";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="styles_body__Z1vMj">
+    <div class="styles_breadcrumb__aTA0J" style="background: white;">
+        <div class="styles_container__pVb9x styles_containerPartner__pJy0t">
+            <ul class="styles_breadcrumbs__Lvmdm">
+                <div id="first"></div>
+                <li><a href="/">Trang chủ</a>&nbsp;</li>
+                <li class="undefined undefined styles_last__rM2K0">
+                    <span class="styles_text__KPG_r">
+                        &nbsp;
+                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                             width="1em" xmlns="http://www.w3.org/2000/svg">
+                            <path fill="none" d="M0 0h24v24H0V0z"></path>
+                            <path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"></path>
+                        </svg>&nbsp;<a>Phòng mạch</a>
+                    </span>
+                </li>
+                <div id="last"></div>
+            </ul>
+        </div>
+    </div>
+    <div>
+        <div id="top"></div>
+        <div>
+            <div class="styles_headerHospitals__F82SL">
+                <div id="top"></div>
+                <div class="styles_hospitals__QNVeC">
+                    <div class="styles_header__seIDg">
+                        <h1 class="styles_title__ibZK4">Phòng mạch</h1>
+                        <div class="styles_sub_title__SJz_9">
+                            Chẩn đoán và điều trị chất lượng với bác sĩ chuyên khoa được nhiều người tin tưởng
+                        </div>
+                    </div>
+                    <div class="styles_body__UAb76">
+                        <div class="styles_form__Zr3u_">
+                            <div class="styles_formContent__9Xq31">
+                                <div class="styles_item__V3Z5q">
+                                    <div class="styles_icon__pBg0q">
+                                        <svg stroke="currentColor" fill="currentColor"
+                                             stroke-width="0" version="1.1" id="search" x="0px" y="0px"
+                                             viewBox="0 0 24 24" color="#B1B1B1" height="20" width="20"
+                                             xmlns="http://www.w3.org/2000/svg" style="color: rgb(177, 177, 177);">
+                                            <g>
+                                                <path d="M20.031,20.79c0.46,0.46,1.17-0.25,0.71-0.7l-3.75-3.76c1.27-1.41,2.04-3.27,2.04-5.31
+    c0-4.39-3.57-7.96-7.96-7.96s-7.96,3.57-7.96,7.96c0,4.39,3.57,7.96,7.96,7.96c1.98,0,3.81-0.73,5.21-1.94L20.031,20.79z
+     M4.11,11.02c0-3.84,3.13-6.96,6.96-6.96c3.84,0,6.96,3.12,6.96,6.96c0,3.84-3.12,6.96-6.96,6.96C7.24,17.98,4.11,14.86,4.11,11.02
+    z"></path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <div class="styles_inputItem__xbR9Q">
+                                        <div class="styles_formItem__ZCq49 styles_inputAntd__MtARN">
+                                            <span class="ant-input-affix-wrapper styles_selectItem__vAfuX"
+                                                  style="border: none;">
+                                                <input class="ant-input"
+                                                       placeholder="Tìm kiếm cơ sở y tế..." type="text" value=""><span class="ant-input-suffix">
+                                                    <span class="ant-input-clear-icon ant-input-clear-icon-hidden"
+                                                          role="button" tabindex="-1">
+                                                        <span role="img"
+                                                              aria-label="close-circle"
+                                                              class="anticon anticon-close-circle">
+                                                            <svg viewBox="64 64 896 896" focusable="false"
+                                                                 data-icon="close-circle" width="1em" height="1em"
+                                                                 fill="currentColor" aria-hidden="true">
+                                                                <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 01-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z">
+                                                                </path>
+                                                            </svg>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <ul class="styles_tag__pheBg">
+                    <li>
+                        <a asp-controller="CoSoYTe" asp-action="BenhVienCong">
+                            <button type="button"
+                                    class="ant-btn ant-btn-primary styles_btnAntd__zap7d styles_tagItem__jDGzF">
+                                <p>Bệnh viện công {{..}}</p>
+                            </button>
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-controller="CoSoYTe" asp-action="BenhVienTu">
+                            <button type="button" class="ant-btn ant-btn-primary styles_btnAntd__zap7d styles_tagItem__jDGzF">
+                                <p>Bệnh viện tư {{..}}</p>
+                            </button>
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-controller="CoSoYTe" asp-action="PhongKham">
+                            <button type="button"
+                                    class="ant-btn ant-btn-primary styles_btnAntd__zap7d styles_tagItem__jDGzF">
+                                <p>Phòng khám {{..}}</p>
+                            </button>
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-controller="CoSoYTe" asp-action="PhongMach">
+                            <button type="button"
+                                    class="ant-btn ant-btn-primary styles_btnAntd__zap7d styles_tagItem__jDGzF  styles_active__uNeDR">
+                                <p>Phòng mạch {{..}}</p>
+                            </button>
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-controller="CoSoYTe" asp-action="XetNghiem">
+                            <button type="button"
+                                    class="ant-btn ant-btn-primary styles_btnAntd__zap7d styles_tagItem__jDGzF">
+                                <p>Xét nghiệm {{..}}</p>
+                            </button>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a asp-controller="CoSoYTe" asp-action="TiemChung">
+                            <button type="button"
+                                    class="ant-btn ant-btn-primary styles_btnAntd__zap7d styles_tagItem__jDGzF">
+                                <p>Tiêm chủng {{..}}</p>
+                            </button>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="styles_container__pVb9x styles_container-medproSeo__ZGZF_">
+                <div class="styles_listHospital__SdgKE">
+                    <div class="ant-row" style="margin-left: -13px; margin-right: -13px; row-gap: 0px;">
+                        <div class="ant-col ant-col-24 ant-col-lg-15 ant-col-lg-order-1"
+                             style="padding-left: 13px; padding-right: 13px;">
+                            <div class="styles_card__QNwpq styles_boxHospital__WfYJ5">
+                                <div class="styles_DetailInfo__9GHcK">
+                                    <div class="styles_cardImage__2RlZI">
+                                        <span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;">
+                                            <span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 100% 0px 0px;"></span>
+                                            <img alt="Phòng Khám Nhi và Tâm lý Baby Dino"
+                                                 src="https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=3840&amp;q=75"
+                                                 decoding="async" data-nimg="responsive"
+                                                 style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+                                                 sizes="100vw"
+                                                 srcset="https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=640&amp;q=75 640w, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=750&amp;q=75 750w, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=828&amp;q=75 828w, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=1080&amp;q=75 1080w, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=1200&amp;q=75 1200w, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=1920&amp;q=75 1920w, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=2048&amp;q=75 2048w, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=3840&amp;q=75 3840w">
+                                        </span>
+                                    </div>
+                                    <div class="styles_cardBody__Nikxk">
+                                        <div class="styles_cardContent__H0Fhc">
+                                            <h2 class="styles_title__R3oLl">
+                                                Phòng khám chuyên khoa Dinh Dưỡng Ths.BSCKI. Lê Thị Ngọc Trân
+                                            </h2>
+                                            <p class="styles_contentItem__dx92M">
+                                                @*  <span>
+                                                <svg stroke="currentColor"
+                                                fill="none" stroke-width="0" viewBox="0 0 24 24" color="#858585"
+                                                height="21" width="21" xmlns="http://www.w3.org/2000/svg"
+                                                style="color: rgb(133, 133, 133);">
+                                                <path stroke-linecap="round" stroke-linejoin="round"
+                                                stroke-width="2"
+                                                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z">
+                                                </path>
+                                                <path stroke-linecap="round" stroke-linejoin="round"
+                                                stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z">
+                                                </path>
+                                                </svg>
+                                                </span> *@Bukit Merah, Central Region, Singapore
+                                            </p>
+                                            <p class="styles_rating__vgs_0">
+                                                (4.7)
+                                                <ul class="ant-rate ant-rate-disabled" tabindex="-1" role="radiogroup"
+                                                    style="font-size: 18px; margin-left: 4px; color: rgb(255, 181, 74);">
+                                                    <li class="ant-rate-star ant-rate-star-full">
+                                                        <div role="radio" aria-checked="true" aria-posinset="1"
+                                                             aria-setsize="5" tabindex="-1">
+                                                            <div class="ant-rate-star-first">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                            <div class="ant-rate-star-second">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="ant-rate-star ant-rate-star-full">
+                                                        <div role="radio" aria-checked="true" aria-posinset="2"
+                                                             aria-setsize="5" tabindex="-1">
+                                                            <div class="ant-rate-star-first">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                            <div class="ant-rate-star-second">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="ant-rate-star ant-rate-star-full">
+                                                        <div role="radio" aria-checked="true" aria-posinset="3"
+                                                             aria-setsize="5" tabindex="-1">
+                                                            <div class="ant-rate-star-first">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                            <div class="ant-rate-star-second">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="ant-rate-star ant-rate-star-full">
+                                                        <div role="radio" aria-checked="true" aria-posinset="4"
+                                                             aria-setsize="5" tabindex="-1">
+                                                            <div class="ant-rate-star-first">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                            <div class="ant-rate-star-second">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="ant-rate-star ant-rate-star-half ant-rate-star-active">
+                                                        <div role="radio" aria-checked="true" aria-posinset="5"
+                                                             aria-setsize="5" tabindex="-1">
+                                                            <div class="ant-rate-star-first">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                            <div class="ant-rate-star-second">
+                                                                <span role="img"
+                                                                      aria-label="star" class="anticon anticon-star">
+                                                                    <svg viewBox="64 64 896 896" focusable="false"
+                                                                         data-icon="star" width="1em" height="1em"
+                                                                         fill="currentColor" aria-hidden="true">
+                                                                        <path d="M908.1 353.1l-253.9-36.9L540.7 86.1c-3.1-6.3-8.2-11.4-14.5-14.5-15.8-7.8-35-1.3-42.9 14.5L369.8 316.2l-253.9 36.9c-7 1-13.4 4.3-18.3 9.3a32.05 32.05 0 00.6 45.3l183.7 179.1-43.4 252.9a31.95 31.95 0 0046.4 33.7L512 754l227.1 119.4c6.2 3.3 13.4 4.4 20.3 3.2 17.4-3 29.1-19.5 26.1-36.9l-43.4-252.9 183.7-179.1c5-4.9 8.3-11.3 9.3-18.3 2.7-17.5-9.5-33.7-27-36.3z">
+                                                                        </path>
+                                                                    </svg>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </p>
+                                        </div>
+                                        <div class="styles_desktop__Ux3AL">
+                                            <div class="styles_btnControl__hZisz">
+                                                <button type="button"
+                                                        class="ant-btn ant-btn-default styles_btnAntd__zap7d styles_btnView__WCJMs">
+                                                    <span>
+                                                        Xem
+                                                        chi tiết
+                                                    </span>
+                                                </button><button type="button"
+                                                                 class="ant-btn ant-btn-default styles_btnAntd__zap7d styles_btnBooking__TLZlQ">
+                                                    <span>
+                                                        Đặt
+                                                        khám ngay
+                                                    </span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="styles_mobile__AEG86">
+                                    <div class="styles_btnControl__hZisz">
+                                        <button type="button"
+                                                class="ant-btn ant-btn-default styles_btnAntd__zap7d styles_btnView__WCJMs">
+                                            <span>
+                                                Xem
+                                                chi tiết
+                                            </span>
+                                        </button><button type="button"
+                                                         class="ant-btn ant-btn-default styles_btnAntd__zap7d styles_btnBooking__TLZlQ">
+                                            <span>
+                                                Đặt
+                                                khám ngay
+                                            </span>
+                                        </button>
+                                    </div>
+                                </div>
+                                @*  <div class="styles_sponsor__4jeAf">
+                                <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 50px; height: 58px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;">
+                                <img alt="Icon sponsor"
+                                src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsponsor.526b8311.svg&amp;w=128&amp;q=75"
+                                decoding="async" data-nimg="fixed"
+                                style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: fill;"
+                                srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsponsor.526b8311.svg&amp;w=64&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsponsor.526b8311.svg&amp;w=128&amp;q=75 2x">
+                                </span>
+                                </div> *@
+                            </div>
+
+                        </div>
+                        <div class="ant-col ant-col-24 styles_detailHospital__dees5 styles_detailTop__Hy5IH ant-col-lg-9 ant-col-lg-order-2"
+                             style="padding-left: 13px; padding-right: 13px;">
+                            <div class="styles_hospitalIntroduce__lvdAb">
+                                <div class="styles_header__yK7m4">
+                                    <div class="styles_logo__sBdnp">
+                                        <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 200px; height: 200px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;">
+                                            <img alt="Phòng Khám Nhi và Tâm lý Baby Dino"
+                                                 src="https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=640&amp;q=75"
+                                                 decoding="async" data-nimg="fixed"
+                                                 style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                                                 srcset="https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=256&amp;q=75 1x, https://medpro.vn/_next/image?url=https%3A%2F%2Fcdn.medpro.vn%2Fprod-partner%2F00b20f18-cd98-4b64-b8f3-8cf0a00c73c1-bs-ngoc-tran_logo.png&amp;w=640&amp;q=75 2x">
+                                        </span>
+                                    </div>
+                                    <h3 class="styles_name__a94y4">
+                                        Phòng khám chuyên khoa Dinh Dưỡng Ths.BSCKI. Lê Thị Ngọc Trân
+                                    </h3>
+                                    <div class="styles_time__Rplhp">
+                                        <svg stroke="currentColor" fill="currentColor"
+                                             stroke-width="0" viewBox="0 0 24 24" color="#FFB54A"
+                                             class="styles_iconTime__eOOC8" height="20" width="20"
+                                             xmlns="http://www.w3.org/2000/svg" style="color: rgb(255, 181, 74);">
+                                            <path d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8z">
+                                            </path>
+                                            <path d="M13 7h-2v5.414l3.293 3.293 1.414-1.414L13 11.586z"></path>
+                                        </svg>
+                                        <p>Thứ 2 - Thứ 6</p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="styles_subject__UXqH3">
+                                        <div class="styles_subjectItem__C4V5X">
+                                            <div class="ant-typography ant-typography-ellipsis"
+                                                 aria-label="Bệnh viện Đa khoa Singapore (Sing General Hospital - SGH) là bệnh viện công lớn nhất Singapore với thiết bị y tế tân tiến và đội ngũ bác sĩ có chuyên môn hàng đầu, đặc biệt là trong chữa trị ung thư. Cùng tìm hiểu về Bệnh viện Đa khoa Singapore và đưa ra quyết định khám chữa bệnh nước ngoài tốt nhất nhé!"
+                                                 title="Bệnh viện Đa khoa Singapore (Sing General Hospital - SGH) là bệnh viện công lớn nhất Singapore với thiết bị y tế tân tiến và đội ngũ bác sĩ có chuyên môn hàng đầu, đặc biệt là trong chữa trị ung thư. Cùng tìm hiểu về Bệnh viện Đa khoa Singapore và đưa ra quyết định khám chữa bệnh nước ngoài tốt nhất nhé!">
+                                                <span aria-hidden="true">
+                                                    Bệnh viện Đa khoa Singapore (Sing General
+                                                    Hospital - SGH) là bệnh viện công lớn nhất Singapore với thiết bị y
+                                                    tế tân tiến và đội ngũ bác sĩ có chuyên môn hàng đầu, đặc biệt là
+                                                    trong chữa trị ung thư. Cùng tìm hiểu về Bệnh viện Đa khoa Singapore
+                                                    và đưa
+                                                </span><span aria-hidden="true">...</span><a class="ant-typography-expand" aria-label="Expand">Xem thêm</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="styles_map__fzXO9">
+                                        <h3 class="styles_title__WiYX_">Bản đồ</h3>
+                                        <div class="styles_mapItem__u1v4c">
+                                            <iframe title="google map"
+                                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8226312435063!2d103.83322440840124!3d1.2800648691130114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196f954c6cd5%3A0x5c6009b161544a96!2sSingapore%20General%20Hospital!5e0!3m2!1sen!2s!4v1710232768924!5m2!1sen!2s&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0"
+                                                    loading="lazy"></iframe>
+                                        </div>
+                                    </div>
+                                    <div class="styles_images__tFVGP">
+                                        <h3 class="styles_title__WiYX_">Ảnh</h3>
+                                        <div class="styles_listImage__dkypI">
+                                            <div class="styles_imageItem__pehWM">
+                                                <div class="ant-image" style="width: 100%; height: 100%;">
+                                                    <img alt="Chi tiết bệnh viện Bệnh viện đa khoa Singapore (Singapore General Hospital)"
+                                                         class="ant-image-img"
+                                                         src="https://cdn-pkh.longvan.net/prod-partner/d88ec830-a09e-4fa4-bca3-df407c7cb7e9-np_20190322_sksgh22_4710649.jpg"
+                                                         width="100%" height="100%" style="height: 100%;">
+                                                    <div class="ant-image-mask">
+                                                        <div class="ant-image-mask-info">
+                                                            <span role="img"
+                                                                  aria-label="eye" class="anticon anticon-eye">
+                                                                <svg viewBox="64 64 896 896" focusable="false"
+                                                                     data-icon="eye" width="1em" height="1em"
+                                                                     fill="currentColor" aria-hidden="true">
+                                                                    <path d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z">
+                                                                    </path>
+                                                                </svg>
+                                                            </span>Preview
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="styles_imageItem__pehWM">
+                                                <div class="ant-image" style="width: 100%; height: 100%;">
+                                                    <img alt="Chi tiết bệnh viện Bệnh viện đa khoa Singapore (Singapore General Hospital)"
+                                                         class="ant-image-img"
+                                                         src="https://cdn-pkh.longvan.net/prod-partner/57c9e191-400d-4c16-bd1d-79de1f045b42-ntfwellness01_rev.jpg"
+                                                         width="100%" height="100%" style="height: 100%;">
+                                                    <div class="ant-image-mask">
+                                                        <div class="ant-image-mask-info">
+                                                            <span role="img"
+                                                                  aria-label="eye" class="anticon anticon-eye">
+                                                                <svg viewBox="64 64 896 896" focusable="false"
+                                                                     data-icon="eye" width="1em" height="1em"
+                                                                     fill="currentColor" aria-hidden="true">
+                                                                    <path d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z">
+                                                                    </path>
+                                                                </svg>
+                                                            </span>Preview
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="styles_imageItem__pehWM">
+                                                <div class="ant-image" style="width: 100%; height: 100%;">
+                                                    <img alt="Chi tiết bệnh viện Bệnh viện đa khoa Singapore (Singapore General Hospital)"
+                                                         class="ant-image-img"
+                                                         src="https://cdn-pkh.longvan.net/prod-partner/d2e1d3ea-b566-4371-a40e-2b4ed05e7580-sg01.jpeg"
+                                                         width="100%" height="100%" style="height: 100%;">
+                                                    <div class="ant-image-mask">
+                                                        <div class="ant-image-mask-info">
+                                                            <span role="img"
+                                                                  aria-label="eye" class="anticon anticon-eye">
+                                                                <svg viewBox="64 64 896 896" focusable="false"
+                                                                     data-icon="eye" width="1em" height="1em"
+                                                                     fill="currentColor" aria-hidden="true">
+                                                                    <path d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z">
+                                                                    </path>
+                                                                </svg>
+                                                            </span>Preview
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="styles_imageItem__pehWM">
+                                                <div class="ant-image" style="width: 100%; height: 100%;">
+                                                    <img alt="Chi tiết bệnh viện Bệnh viện đa khoa Singapore (Singapore General Hospital)"
+                                                         class="ant-image-img"
+                                                         src="https://cdn-pkh.longvan.net/prod-partner/91bcbdf9-036a-4942-a4a0-fb6fdaec7738-sg03.png"
+                                                         width="100%" height="100%" style="height: 100%;">
+                                                    <div class="ant-image-mask">
+                                                        <div class="ant-image-mask-info">
+                                                            <span role="img"
+                                                                  aria-label="eye" class="anticon anticon-eye">
+                                                                <svg viewBox="64 64 896 896" focusable="false"
+                                                                     data-icon="eye" width="1em" height="1em"
+                                                                     fill="currentColor" aria-hidden="true">
+                                                                    <path d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z">
+                                                                    </path>
+                                                                </svg>
+                                                            </span>Preview
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="styles_imageItem__pehWM">
+                                                <div class="ant-image" style="width: 100%; height: 100%;">
+                                                    <img alt="Chi tiết bệnh viện Bệnh viện đa khoa Singapore (Singapore General Hospital)"
+                                                         class="ant-image-img"
+                                                         src="https://cdn-pkh.longvan.net/prod-partner/6846a818-5d4e-4b2f-81ff-a92f537ffd65-sghward_screen03.jpg"
+                                                         width="100%" height="100%" style="height: 100%;">
+                                                    <div class="ant-image-mask">
+                                                        <div class="ant-image-mask-info">
+                                                            <span role="img"
+                                                                  aria-label="eye" class="anticon anticon-eye">
+                                                                <svg viewBox="64 64 896 896" focusable="false"
+                                                                     data-icon="eye" width="1em" height="1em"
+                                                                     fill="currentColor" aria-hidden="true">
+                                                                    <path d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z">
+                                                                    </path>
+                                                                </svg>
+                                                            </span>Preview
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="styles_imageItem__pehWM">
+                                                <div class="ant-image" style="width: 100%; height: 100%;">
+                                                    <img alt="Chi tiết bệnh viện Bệnh viện đa khoa Singapore (Singapore General Hospital)"
+                                                         class="ant-image-img"
+                                                         src="https://cdn-pkh.longvan.net/prod-partner/0f386104-7c30-4f88-a82c-e21c011dfa32-sh.jpeg"
+                                                         width="100%" height="100%" style="height: 100%;">
+                                                    <div class="ant-image-mask">
+                                                        <div class="ant-image-mask-info">
+                                                            <span role="img"
+                                                                  aria-label="eye" class="anticon anticon-eye">
+                                                                <svg viewBox="64 64 896 896" focusable="false"
+                                                                     data-icon="eye" width="1em" height="1em"
+                                                                     fill="currentColor" aria-hidden="true">
+                                                                    <path d="M942.2 486.2C847.4 286.5 704.1 186 512 186c-192.2 0-335.4 100.5-430.2 300.3a60.3 60.3 0 000 51.5C176.6 737.5 319.9 838 512 838c192.2 0 335.4-100.5 430.2-300.3 7.7-16.2 7.7-35 0-51.5zM512 766c-161.3 0-279.4-81.8-362.7-254C232.6 339.8 350.7 258 512 258c161.3 0 279.4 81.8 362.7 254C791.5 684.2 673.4 766 512 766zm-4-430c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm0 288c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z">
+                                                                    </path>
+                                                                </svg>
+                                                            </span>Preview
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="styles_downloadApp__1cva7">
+                                <div class="styles_title__WiYX_">Tải app để đặt lịch nhanh chóng</div>
+                                <div class="styles_buttonWrapper__okcXz">
+                                    <div>
+                                        <a target="_blank" rel="noopener"
+                                           href="https://apps.apple.com/us/app/id1481561748">
+                                            <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 152px; height: 45px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;">
+                                                <img alt="Tải ứng dụng App Store"
+                                                     src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                                     decoding="async" data-nimg="fixed"
+                                                     style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript>
+                                            </span>
+                                        </a>
+                                    </div>
+                                    <div>
+                                        <a target="_blank" rel="noopener"
+                                           href="https://play.google.com/store/apps/details?id=vn.com.medpro">
+                                            <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 152px; height: 46px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;">
+                                                <img alt="Tải ứng dụng Google Play"
+                                                     src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                                     decoding="async" data-nimg="fixed"
+                                                     style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ant-row">
+                        <div class="ant-col ant-col-24 ant-col-lg-24 ant-col-lg-order-3">
+                            <div class="styles_pagination__o7NE2">
+                                <ul class="ant-pagination" unselectable="unselectable">
+                                    <li title="Previous Page" class="ant-pagination-prev ant-pagination-disabled"
+                                        aria-disabled="true">
+                                        <button class="ant-pagination-item-link" type="button"
+                                                tabindex="-1" disabled="">
+                                            <span role="img" aria-label="left"
+                                                  class="anticon anticon-left">
+                                                <svg viewBox="64 64 896 896"
+                                                     focusable="false" data-icon="left" width="1em" height="1em"
+                                                     fill="currentColor" aria-hidden="true">
+                                                    <path d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z">
+                                                    </path>
+                                                </svg>
+                                            </span>
+                                        </button>
+                                    </li>
+                                    <li title="1"
+                                        class="ant-pagination-item ant-pagination-item-1 ant-pagination-item-active"
+                                        tabindex="0"><a rel="nofollow">1</a></li>
+                                    <li title="2" class="ant-pagination-item ant-pagination-item-2" tabindex="0">
+                                        <a rel="nofollow">2</a>
+                                    </li>
+                                    <li title="3" class="ant-pagination-item ant-pagination-item-3" tabindex="0">
+                                        <a rel="nofollow">3</a>
+                                    </li>
+                                    <li title="4" class="ant-pagination-item ant-pagination-item-4" tabindex="0">
+                                        <a rel="nofollow">4</a>
+                                    </li>
+                                    <li title="Next Page" tabindex="0" class="ant-pagination-next"
+                                        aria-disabled="false">
+                                        <button class="ant-pagination-item-link" type="button"
+                                                tabindex="-1">
+                                            <span role="img" aria-label="right"
+                                                  class="anticon anticon-right">
+                                                <svg viewBox="64 64 896 896"
+                                                     focusable="false" data-icon="right" width="1em" height="1em"
+                                                     fill="currentColor" aria-hidden="true">
+                                                    <path d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z">
+                                                    </path>
+                                                </svg>
+                                            </span>
+                                        </button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="styles_hospitalsContact__RnNAL"
+             style="background-image: url(&quot;https://bo-api.medpro.com.vn/static/images/medpro/web/bg_contact.png&quot;);">
+            <div class="styles_card__eB_IM">
+                <div class="styles_header__h4qcz">
+                    <div class="styles_title__801gp">Liên hệ hợp tác</div>
+                </div>
+                <div class="styles_formContact__7ju6Y">
+                    <form class="ant-form ant-form-vertical styles_form__0QEVr">
+                        <div>
+                            <div>
+                                <div class="ant-form-item styles_formInputItem__Q7Fqb">
+                                    <div class="ant-row ant-form-item-row">
+                                        <div class="ant-col ant-form-item-control">
+                                            <div class="ant-form-item-control-input">
+                                                <div class="ant-form-item-control-input-content">
+                                                    <input type="text"
+                                                           class="ant-input styles_input__qFzBs"
+                                                           placeholder="Tên đơn vị/ Người liên hệ" id="fullname" value="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <div class="ant-form-item styles_formInputItem__Q7Fqb">
+                                    <div class="ant-row ant-form-item-row">
+                                        <div class="ant-col ant-form-item-control">
+                                            <div class="ant-form-item-control-input">
+                                                <div class="ant-form-item-control-input-content">
+                                                    <input type="text"
+                                                           class="ant-input styles_input__qFzBs" placeholder="Email"
+                                                           id="email" value="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <div class="ant-form-item styles_formInputItem__Q7Fqb">
+                                    <div class="ant-row ant-form-item-row">
+                                        <div class="ant-col ant-form-item-control">
+                                            <div class="ant-form-item-control-input">
+                                                <div class="ant-form-item-control-input-content">
+                                                    <input class="ant-input styles_input__qFzBs" type="text"
+                                                           placeholder="Số điện thoại" id="phone" value="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <div class="ant-form-item styles_formInputItem__Q7Fqb">
+                                    <div class="ant-row ant-form-item-row">
+                                        <div class="ant-col ant-form-item-control">
+                                            <div class="ant-form-item-control-input">
+                                                <div class="ant-form-item-control-input-content">
+                                                    <textarea placeholder="Ghi chú" id="note"
+                                                              class="ant-input styles_textArea__1ZS5G"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><button type="submit"
+                                      class="ant-btn ant-btn-primary styles_btnAntd__zap7d styles_btnSubmit__dKLS_">
+                            <span>Gửi</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="styles_contactMobile__zT4my">
+            <button type="button"
+                    class="ant-btn ant-btn-default styles_btnAntd__zap7d">
+                <span>Liên hệ hợp tác</span>
+            </button>
+        </div>
+    </div>
+</div>
+
+
+
