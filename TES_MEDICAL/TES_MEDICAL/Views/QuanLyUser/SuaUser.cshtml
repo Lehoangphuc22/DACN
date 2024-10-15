@@ -1,0 +1,151 @@
+﻿@{
+    ViewData["Title"] = "SuaUser";
+    Layout = "~/Views/Shared/_LayoutQuanLy.cshtml";
+}
+
+<div class="content-section">
+    <style>
+        .box {
+            padding: 0;
+            margin: 0;
+        }
+        h6 {
+            margin-left: 10px;
+            font-weight: 500;
+            font-size: 18px;
+        }
+        .box-title-1 {
+            background-color: white;
+            border-left: 8px solid rgb(82, 183, 136);
+        }
+        .box-title-1 h4 {
+            padding: 2%;
+            font-size: 35px;
+            font-weight: 400;
+        }
+        .box-left {
+            margin-inline: 5%;
+        }
+        .form-check .form-label {
+            margin-left: -4px;
+        }
+        .form-check-label {
+            padding-left: 20px;
+            font-weight: 400;
+            color: gray;
+        }
+        .box-right {
+            text-align: center;
+        }
+        .box-right .form-group .btn-img {
+            width: 103%;
+            margin-left: -1%;
+            background-color: rgb(82, 183, 136);
+            color: white;
+            border: 2px solid rgb(82, 183, 136);
+            transition: 0.25s all;
+            padding: 10px 0 10px 0;
+        }
+        .box-right .form-group .btn-img:hover {
+            background-color: white;
+            border: 2px solid rgb(82, 183, 136);
+            color: rgb(82, 183, 136);
+        }
+    </style>
+
+    <div class="box-title-1 mb-4">
+        <h4>Thêm người dùng</h4>
+    </div>
+
+    <div class="box">
+        <form action="/NguoiDung/Add" class="d-flex flex-wrap" enctype="multipart/form-data" id="frm" method="get" name="frm">
+            <div class="text-danger"></div>
+            <div class="box-left col-sm-7 row">
+                <!-- User details form fields (same as before) -->
+                <!-- Include inputs for name, email, phone, password, etc., similar to the original modal -->
+
+                <div class="form-group col-12">
+                    <h6>Tên người dùng<strong style="color:#b10c0c">&nbsp;(*)</strong></h6>
+                    <div class="col-12">
+                        <input class="form-control" data-val="true" data-val-required="Bạn cần nhập họ tên" id="HoTen" name="HoTen" type="text" value="">
+                        <span class="field-validation-valid text-danger" data-valmsg-for="HoTen" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+                <div class="form-group col-12">
+                    <h6>Số điện thoại<strong style="color:#b10c0c">&nbsp;(*)</strong></h6>
+                    <div class="col-12">
+                        <input class="form-control" data-val="true" data-val-required="Bạn cần nhập số điện thoại" id="HoTen" name="HoTen" type="text" value="">
+                        <span class="field-validation-valid text-danger" data-valmsg-for="HoTen" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+                <div class="form-group col-12">
+                    <h6>Chức vụ<strong style="color:#b10c0c">&nbsp;(*)</strong></h6>
+                    <div class="col-12">
+                        <input type="list" />
+                    </div>
+                </div>
+                <div class="form-group col-12">
+                    <h6>Mật khẩu<strong style="color:#b10c0c">&nbsp;(*)</strong></h6>
+                    <div class="col-12">
+                        <input class="form-control" data-val="true" data-val-required="Bạn cần nhập mật khẩu" id="HoTen" name="HoTen" type="text" value="">
+                        <span class="field-validation-valid text-danger" data-valmsg-for="HoTen" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+                <div class="form-group col-12">
+                    <h6>Nhập lại mật khẩu<strong style="color:#b10c0c">&nbsp;(*)</strong></h6>
+                    <div class="col-12">
+                        <input class="form-control" data-val="true" data-val-required="Bạn cần nhập lại mật khẩu" id="HoTen" name="HoTen" type="text" value="">
+                        <span class="field-validation-valid text-danger" data-valmsg-for="HoTen" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+                <!-- Additional input fields for email, phone, password, and other details... -->
+
+                <div class="form-group form-check col-md-5 mb-4">
+                    <h6 class="form-label">Trạng thái</h6>
+                    <div>
+                        <label class="form-check-label">
+                            <input class="form-check-input" data-val="true" data-val-required="The TrangThai field is required." id="TrangThai" name="TrangThai" type="checkbox" value="true"> Đang hoạt động
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="box-right col-sm-3">
+                <div class="form-group col-12">
+                    <span class="field-validation-valid text-danger" data-valmsg-for="HinhAnh" data-valmsg-replace="true"></span>
+                    <div id="image-holder2">
+                        <img class="user-img" src="https://cdn-icons-png.flaticon.com/512/9187/9187604.png" style="width:250px; border-radius: 3%;">
+                    </div>
+                    <label class="btn-img btn mt-4">
+                        <i class="fa fa-image"></i>&nbsp; &nbsp; Chọn hình<input style="display:none;" class="form-control" type="file" id="upload-back" accept="image/*">
+                    </label>
+                </div>
+            </div>
+            <input name="TrangThai" type="hidden" value="false">
+        </form>
+    </div>
+
+    <div class="footer-section">
+        <div class="text-right">
+           
+            <button type="button" id="btupdate" class="btn" style="background-color: rgb(82, 183, 136); color: white; display: none;"><i class="fa fa-save"></i>&nbsp;Cập nhật</button>
+            <a asp-controller="admin" asp-action="Quanlynguoidung"><button type="button" class="btn" id="btclose" style="background-color: rgb(239, 71, 111); color: white;"><i class="fa fa-close"></i>&nbsp;Đóng</button></a>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            // Any necessary JavaScript for initializing or handling events
+        });
+        $('#upload-back').change(function (e) {
+            var self = this;
+            var file = e.target.files[0];
+            const reader = new FileReader();
+            reader.onloadend = () => {
+                var img = "<img src='" + reader.result + "' style='width: 250px; height: 250px; object-fit: cover; object-position: center center;border-radius: 3%;'/>";
+                $('#image-holder2').html(img);
+            };
+            reader.readAsDataURL(file);
+        });
+    </script>
+</div>

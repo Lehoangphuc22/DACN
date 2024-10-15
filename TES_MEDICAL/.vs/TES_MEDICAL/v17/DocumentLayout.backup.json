@@ -3,24 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\cosoyte\\tiemchung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\cosoyte\\tiemchung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\shared\\_layoutquanly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\shared\\_layoutquanly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\cosoyte\\phongmach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\cosoyte\\phongmach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\cosoyte\\phongkham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\cosoyte\\phongkham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlyspecialty\\suaspecialty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlyspecialty\\suaspecialty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\cosoyte\\benhvientu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\cosoyte\\benhvientu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlyspecialty\\themspecialty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlyspecialty\\themspecialty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\cosoyte\\benhviencong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\cosoyte\\benhviencong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\controllers\\quanlyspecialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\controllers\\quanlyspecialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlyspecialty\\xoaspecialty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlyspecialty\\xoaspecialty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlyservice\\themservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlyservice\\themservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlyservice\\xoaservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlyservice\\xoaservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\admin\\quanlychuyenkhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\admin\\quanlychuyenkhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\admin\\quanlygoidichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\admin\\quanlygoidichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlyservice\\suaservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlyservice\\suaservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\controllers\\quanlyservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\controllers\\quanlyservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlypill\\xoapill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlypill\\xoapill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlypill\\chitietpill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlypill\\chitietpill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\controllers\\quanlypillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\controllers\\quanlypillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlypill\\suapill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlypill\\suapill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\admin\\quanlythuoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\admin\\quanlythuoc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|c:\\users\\truon\\source\\repos\\tes_medical\\tes_medical\\views\\quanlypill\\thempill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCECD41F-BBB5-4122-9537-D7E51CB59BC9}|TES_MEDICAL\\TES_MEDICAL.csproj|solutionrelative:tes_medical\\views\\quanlypill\\thempill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +87,235 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TiemChung.cshtml",
-              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\TiemChung.cshtml",
-              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\CoSoYTe\\TiemChung.cshtml",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\TiemChung.cshtml",
-              "RelativeToolTip": "TES_MEDICAL\\Views\\CoSoYTe\\TiemChung.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Title": "_LayoutQuanLy.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_LayoutQuanLy.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Shared\\_LayoutQuanLy.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Shared\\_LayoutQuanLy.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Shared\\_LayoutQuanLy.cshtml",
+              "ViewState": "AgIAAAwGAAAAAAAAAAAAABwGAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T16:10:57.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PhongMach.cshtml",
-              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\PhongMach.cshtml",
-              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\CoSoYTe\\PhongMach.cshtml",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\PhongMach.cshtml",
-              "RelativeToolTip": "TES_MEDICAL\\Views\\CoSoYTe\\PhongMach.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T16:10:52.24Z",
+              "WhenOpened": "2024-10-14T19:33:19.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PhongKham.cshtml",
-              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\PhongKham.cshtml",
-              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\CoSoYTe\\PhongKham.cshtml",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\PhongKham.cshtml",
-              "RelativeToolTip": "TES_MEDICAL\\Views\\CoSoYTe\\PhongKham.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SuaSpecialty.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLySpecialty\\SuaSpecialty.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLySpecialty\\SuaSpecialty.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLySpecialty\\SuaSpecialty.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLySpecialty\\SuaSpecialty.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T16:10:48.159Z",
+              "WhenOpened": "2024-10-14T19:32:14.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "TES_MEDICAL\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:26:05.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XoaSpecialty.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLySpecialty\\XoaSpecialty.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLySpecialty\\XoaSpecialty.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLySpecialty\\XoaSpecialty.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLySpecialty\\XoaSpecialty.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:31:09.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BenhVienTu.cshtml",
-              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\BenhVienTu.cshtml",
-              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\CoSoYTe\\BenhVienTu.cshtml",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\BenhVienTu.cshtml",
-              "RelativeToolTip": "TES_MEDICAL\\Views\\CoSoYTe\\BenhVienTu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ThemSpecialty.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLySpecialty\\ThemSpecialty.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLySpecialty\\ThemSpecialty.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLySpecialty\\ThemSpecialty.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLySpecialty\\ThemSpecialty.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T16:10:43.248Z",
+              "WhenOpened": "2024-10-14T19:30:48.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BenhVienCong.cshtml",
-              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\BenhVienCong.cshtml",
-              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\CoSoYTe\\BenhVienCong.cshtml",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\CoSoYTe\\BenhVienCong.cshtml",
-              "RelativeToolTip": "TES_MEDICAL\\Views\\CoSoYTe\\BenhVienCong.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAIAAAAA4AAAAAAAAAA==",
+              "Title": "QuanLySpecialtyController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\QuanLySpecialtyController.cs",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Controllers\\QuanLySpecialtyController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\QuanLySpecialtyController.cs",
+              "RelativeToolTip": "TES_MEDICAL\\Controllers\\QuanLySpecialtyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:30:07.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyChuyenKhoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Admin\\QuanLyChuyenKhoa.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Admin\\QuanLyChuyenKhoa.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Admin\\QuanLyChuyenKhoa.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Admin\\QuanLyChuyenKhoa.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T16:10:27.795Z",
+              "WhenOpened": "2024-10-14T19:27:01.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuaService.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyService\\SuaService.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLyService\\SuaService.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyService\\SuaService.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLyService\\SuaService.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAH4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:25:37.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XoaService.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyService\\XoaService.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLyService\\XoaService.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyService\\XoaService.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLyService\\XoaService.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:24:44.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemService.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyService\\ThemService.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLyService\\ThemService.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyService\\ThemService.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLyService\\ThemService.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:23:57.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuanLyServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\QuanLyServiceController.cs",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Controllers\\QuanLyServiceController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\QuanLyServiceController.cs",
+              "RelativeToolTip": "TES_MEDICAL\\Controllers\\QuanLyServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:23:18.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyGoiDichVu.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Admin\\QuanLyGoiDichVu.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Admin\\QuanLyGoiDichVu.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Admin\\QuanLyGoiDichVu.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Admin\\QuanLyGoiDichVu.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:20:05.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChiTietPill.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\ChiTietPill.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLyPill\\ChiTietPill.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\ChiTietPill.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLyPill\\ChiTietPill.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswHkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:16:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SuaPill.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\SuaPill.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLyPill\\SuaPill.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\SuaPill.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLyPill\\SuaPill.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAMYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:11:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XoaPill.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\XoaPill.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLyPill\\XoaPill.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\XoaPill.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLyPill\\XoaPill.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:11:00.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThemPill.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\ThemPill.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\QuanLyPill\\ThemPill.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\QuanLyPill\\ThemPill.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\QuanLyPill\\ThemPill.cshtml",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:10:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuanLyPillController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\QuanLyPillController.cs",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Controllers\\QuanLyPillController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Controllers\\QuanLyPillController.cs",
+              "RelativeToolTip": "TES_MEDICAL\\Controllers\\QuanLyPillController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:08:01.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuanLyThuoc.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Admin\\QuanLyThuoc.cshtml",
+              "RelativeDocumentMoniker": "TES_MEDICAL\\Views\\Admin\\QuanLyThuoc.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\TES_MEDICAL\\TES_MEDICAL\\Views\\Admin\\QuanLyThuoc.cshtml",
+              "RelativeToolTip": "TES_MEDICAL\\Views\\Admin\\QuanLyThuoc.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAL0AAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:06:34.171Z",
               "EditorCaption": ""
             }
           ]

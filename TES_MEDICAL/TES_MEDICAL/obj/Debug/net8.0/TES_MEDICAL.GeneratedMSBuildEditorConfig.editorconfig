@@ -17,127 +17,247 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TES_MEDICAL
 build_property.RootNamespace = TES_MEDICAL
-build_property.ProjectDir = C:\Users\truon\source\repos\TES_MEDICAL\TES_MEDICAL\
+build_property.ProjectDir = C:\Users\Omen\Desktop\DACN\TES_MEDICAL\TES_MEDICAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\truon\source\repos\TES_MEDICAL\TES_MEDICAL
+build_property.MSBuildProjectDirectory = C:\Users\Omen\Desktop\DACN\TES_MEDICAL\TES_MEDICAL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Bacsi/Index.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Admin/QuanLyChuyenKhoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbkx5Q2h1eWVuS2hvYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Admin/QuanLyGoiDichVu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbkx5R29pRGljaFZ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Admin/QuanLyNguoiDung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbkx5Tmd1b2lEdW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Admin/QuanLyTheloai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbkx5VGhlbG9haS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Admin/QuanLyThuoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbkx5VGh1b2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Admin/QuanLyTinTuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUXVhbkx5VGluVHVjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Bacsi/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFjc2lcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Bacsi/Lichsukham.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Bacsi/Lichsukham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFjc2lcTGljaHN1a2hhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingBase.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingBase.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nQmFzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingDoctor.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingDoctor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nRG9jdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingVaccin.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Booking/BookingVaccin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nVmFjY2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/BenhVienCong.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/BenhVienCong.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb1lUZVxCZW5oVmllbkNvbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/BenhVienTu.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/BenhVienTu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb1lUZVxCZW5oVmllblR1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/PhongKham.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/PhongKham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb1lUZVxQaG9uZ0toYW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/PhongMach.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/PhongMach.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb1lUZVxQaG9uZ01hY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/TiemChung.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/TiemChung.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb1lUZVxUaWVtQ2h1bmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/XetNghiem.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/CoSoYTe/XetNghiem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb1lUZVxYZXROZ2hpZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Dangphat.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Dangphat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXERhbmdwaGF0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Index.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Lichsu.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Lichsu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXExpY2hzdS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Phatthuoc.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Duocsi/Phatthuoc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVvY3NpXFBoYXR0aHVvYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Home/Index.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Home/Privacy.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/News/TinDichVu.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/News/TinDichVu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xUaW5EaWNoVnUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/News/TinYTe.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/News/TinYTe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xUaW5ZVGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/News/YHocThuongThuc.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/News/YHocThuongThuc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xZSG9jVGh1b25nVGh1Yy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Shared/Error.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPill/ChiTietPill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UGlsbFxDaGlUaWV0UGlsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPill/SuaPill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UGlsbFxTdWFQaWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPill/ThemPill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UGlsbFxUaGVtUGlsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPill/XoaPill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UGlsbFxYb2FQaWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPost/ChiTietPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UG9zdFxDaGlUaWV0UG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPost/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPost/SuaPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UG9zdFxTdWFQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPost/ThemPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UG9zdFxUaGVtUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyPost/XoaPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5UG9zdFxYb2FQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyService/SuaService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5U2VydmljZVxTdWFTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyService/ThemService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5U2VydmljZVxUaGVtU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyService/XoaService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5U2VydmljZVxYb2FTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLySpecialty/SuaSpecialty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5U3BlY2lhbHR5XFN1YVNwZWNpYWx0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLySpecialty/ThemSpecialty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5U3BlY2lhbHR5XFRoZW1TcGVjaWFsdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLySpecialty/XoaSpecialty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5U3BlY2lhbHR5XFhvYVNwZWNpYWx0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyType/SuaLoai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5VHlwZVxTdWFMb2FpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyType/ThemLoai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5VHlwZVxUaGVtTG9haS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyUser/ChiTietUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5VXNlclxDaGlUaWV0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyUser/SuaUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5VXNlclxTdWFVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyUser/ThemUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5VXNlclxUaGVtVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/QuanLyUser/XoaUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5VXNlclxYb2FVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutEmployer.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutEmployer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFbXBsb3llci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutLogin.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_LayoutQuanLy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRRdWFuTHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_sidebarView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zaWRlYmFyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/User/Login.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/_ViewImports.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/_ViewStart.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/truon/source/repos/TES_MEDICAL/TES_MEDICAL/Views/Shared/_Layout.cshtml]
+[C:/Users/Omen/Desktop/DACN/TES_MEDICAL/TES_MEDICAL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zacii5ro40

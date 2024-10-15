@@ -1,0 +1,131 @@
+﻿
+@{
+    ViewData["Title"] = "ChiTietPill";
+    Layout = "~/Views/Shared/_LayoutQuanLy.cshtml";
+}
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f5f7;
+        margin: 0;
+        padding: 20px;
+    }
+
+    .container {
+        background-color: white;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 30px;
+    }
+
+    .section-title {
+        display: flex;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+    .section-title h3 {
+        font-size: 24px;
+        color: #2d3748;
+        margin: 0;
+    }
+
+    .section-title::before {
+        content: '';
+        flex-grow: 1;
+        height: 4px;
+        background-color: #2f855a;
+        margin-right: 15px;
+    }
+
+    .drug-info {
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .drug-image {
+        flex: 1;
+        text-align: center;
+    }
+
+    .drug-image img {
+        max-width: 150px;
+        border-radius: 10px;
+    }
+
+    .drug-details {
+        flex: 2;
+        padding-left: 20px;
+    }
+
+    .drug-details h2 {
+        font-size: 26px;
+        color: #2f855a;
+        margin-bottom: 5px;
+    }
+
+    .drug-details p {
+        font-size: 16px;
+        color: #333;
+        margin: 6px 0;
+    }
+
+    .drug-details .label {
+        font-weight: bold;
+        color: #555;
+    }
+
+    .drug-details .value {
+        font-weight: bold;
+        color: #000;
+    }
+
+    .button-container {
+        text-align: right;
+        margin-top: 20px;
+    }
+
+    .close-btn {
+        background-color: #f56565;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        font-size: 14px;
+    }
+
+    .close-btn:hover {
+        background-color: #e53e3e;
+    }
+</style>
+
+<div class="container">
+    <div class="section-title">
+        <h3>Thông tin thuốc</h3>
+    </div>
+
+    <div class="drug-info">
+        <div class="drug-image">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFDBn0-vlbJD55G-YRGLNPawfwaydWuGnFg&s" alt="Acetylcystein">
+        </div>
+
+        <div class="drug-details">
+            <h2>{{NAMEMEDICINE}}</h2>
+            <p><span class="label">Vị trí:</span> <span class="value">{{POSITION}}</span></p>
+            <p><span class="label">Đơn giá:</span> <span class="value">{{PRICE}}</span></p>
+            <p><span class="label">Trạng thái:</span> <span class="value">{{STATUS}}</span></p>
+            <p><span class="label">Thông tin:</span> <span class="value">{{INFO}}</span></p>
+        </div>
+    </div>
+
+    <div class="button-container">
+        <button class="close-btn">✖ Đóng</button>
+    </div>
+</div>
+
+
